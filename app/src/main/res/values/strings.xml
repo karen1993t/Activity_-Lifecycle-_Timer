@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskActivity</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="activity_1">Activity_1</string>
+    <string name="next_page">NEXT PAGE</string>
+    <string name="activity_2">Activity_2</string>
+
+</resources>
